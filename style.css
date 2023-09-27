@@ -2,6 +2,7 @@
     height: 300px;
 }
 
-div {
-    flex-direction: row;
+.itemmmmm {
+    display: grid;
+    grid-template-columns: 100%;
 }
